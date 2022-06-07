@@ -1,13 +1,11 @@
 main:
-  - title: "Daily Log"
-    url: /posts/
-  - title: "Application"
-    url: /application/
-  - title: "Experimental Design"
-    url: /experiment/
-  - title: "New Concept"
-    url: /concept/
-  - title: "Physics Behind the Principle"
-    url: /principle/
   - title: "Background"
     url: /background/
+  - title: "Physics Behind the Principle"
+    url: /principle/
+  - title: "New Concept"
+    url: /concept/
+  - title: "Experimental Design"
+    url: /experiment/
+  - title: "Application"
+    url: /application/
